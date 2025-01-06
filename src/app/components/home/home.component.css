@@ -1,0 +1,20 @@
+.row-edit{
+    margin: 0 60px;
+  }
+  
+  .img-tables{
+    width: 350px;
+    height: 350px;
+    cursor: pointer;
+  }
+  @media (max-width: 576px) {
+    .card-img-top {
+      width: 100%;
+      height: auto;
+    }
+  
+    .form-control {
+      width: 100%;
+    }
+  }
+  

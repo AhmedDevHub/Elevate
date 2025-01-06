@@ -1,0 +1,1 @@
+import{Pa as o,Qa as a,Z as n,_a as p,eb as s}from"./chunk-Q37KPZHE.js";var f=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-notfound"]],standalone:!0,features:[s],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),p(1,"notfound works!"),a())}})};export{f as NotfoundComponent};

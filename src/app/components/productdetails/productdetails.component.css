@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+    .product-details p {
+      font-size: 0.9rem;
+    }
+  
+    .product-details span {
+      font-size: 1rem;
+    }
+  }
+  
